@@ -29,22 +29,9 @@
 		7FCCBDE22D465EC7008EB60D /* AI with GeminiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AI with GeminiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		7FCCBDEA2D465EC7008EB60D /* Exceptions for "AI with Gemini" folder in "AI with Gemini" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 7FCCBDC12D465EBE008EB60D /* AI with Gemini */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7FCCBDC42D465EBE008EB60D /* AI with Gemini */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				7FCCBDEA2D465EC7008EB60D /* Exceptions for "AI with Gemini" folder in "AI with Gemini" target */,
-			);
 			path = "AI with Gemini";
 			sourceTree = "<group>";
 		};
