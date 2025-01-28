@@ -3,10 +3,7 @@ import SwiftUI
 import GoogleGenerativeAI
 
 struct ContentView: View {
-    let model = GenerativeModel(name: "gemini-pro", apiKey: APIKey.default)
-    @State var userPrompt = ""
-    @State var response: LocalizedStringKey = "How can I help you today?"
-    @State var isLoading = false
+    
     
     var body: some View {
         VStack {
