@@ -195,6 +195,9 @@
 			);
 			mainGroup = 7FCCBDB92D465EBE008EB60D;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				7FE6F3FE2D491077006FCE81 /* XCRemoteSwiftPackageReference "generative-ai-swift" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 7FCCBDC32D465EBE008EB60D /* Products */;
 			projectDirPath = "";
@@ -556,6 +559,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7FE6F3FE2D491077006FCE81 /* XCRemoteSwiftPackageReference "generative-ai-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google-gemini/generative-ai-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.5.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 7FCCBDBA2D465EBE008EB60D /* Project object */;
 }
