@@ -4,7 +4,7 @@ This is a simple application made with Xcode swift and Google Gemini API keys.
 I've used the API key from Google AI studio.
  
 These are the screenshots of the application. 
- 
+
 
 <img width="346" alt="Screenshot 2025-01-29 at 16 17 21" src="https://github.com/user-attachments/assets/995f3b7e-c426-446f-8277-3dbb6dc24490" />
  
