@@ -10,3 +10,4 @@ These are the screenshots of the application.
  
    
 <img width="349" alt="Screenshot 2025-01-29 at 16 17 46" src="https://github.com/user-attachments/assets/3cc636d9-1e3e-42bf-bb8f-566849ed4854" />
+ 
